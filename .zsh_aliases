@@ -1,0 +1,5 @@
+alias Syu="sudo pacman -Syyu"
+alias xx="/usr/bin/systemctl poweroff"
+alias re="sync && /usr/bin/systemctl reboot"
+alias syre="sync && reboot -f"
+alias syxx="sync && poweroff -f"
